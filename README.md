@@ -6,7 +6,7 @@
 # About Me :
 
 <div style = "height: 100%">
-<img width="35%" align="right" alt="Github" src="girlgeek.gif" />
+<img width="35%" align="right" alt="Github" src="geek.gif" />
 I am a Data & Software Engineering student at ENSET Mohammedia, focusing on mastering the principles and practices of data management, analysis, and software development. My studies include a deep dive into various aspects of data engineering, software design, and system architecture. I am passionate about leveraging data to drive insights and innovations, and I am constantly learning and applying new technologies and methodologies in the field. My skills include proficiency in programming languages like Java, Python, and SQL, as well as experience with frameworks and tools such as Spring, TensorFlow, and Apache Spark. Additionally, I am adept at designing and implementing scalable, efficient, and secure software solutions.
 </div>
 
