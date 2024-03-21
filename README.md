@@ -7,7 +7,7 @@
 
 <div style = "height: 100%">
 <img width="35%" align="right" alt="Github" src="geek.gif" />
-I am a Data & Software Engineering student at ENSET Mohammedia, focusing on mastering the principles and practices of data management, analysis, and software development. My studies include a deep dive into various aspects of data engineering, software design, and system architecture. I am constantly learning and applying new technologies and methodologies in the field. My skills include proficiency in programming languages like Java, Python, and SQL, as well as experience with frameworks and tools such as Spring, TensorFlow, Hadoop and Apache Spark. 
+I am a Data & Software Engineering student at ENSET Mohammedia. My studies include a deep dive into various aspects of data and software engineering. I am constantly learning and applying new technologies and methodologies in the field. My skills include proficiency in programming languages like Java, Python, and SQL, as well as experience with frameworks and tools such as Spring, Hadoop and Apache Spark. 
 </div>
 
 <h3 align="left">Connect with me :</h3>
