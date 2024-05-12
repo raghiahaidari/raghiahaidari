@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Raghia HAIDARI</h1>
 <h3 align="center">Data & Software Engineering Student</h3>
 
-- 🔭 I’m currently working on [a ML project : Cyber Threat Detection](https://github.com/raghiahaidari/Cyber-Threat-Detection-with-ML.git)
+- 🔭 I’m currently working on [a project to transfer sign language to Arabic text.]()
 
 # About Me :
 
