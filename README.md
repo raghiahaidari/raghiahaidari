@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Raghia HAIDARI</h1>
 <h3 align="center">Data & Software Engineering Student</h3>
 
-- 🔭 I’m currently working on [a project to transfer sign language to Arabic text.]()
+- 🔭 I’m currently working on [[a project to transfer consultation with doctor to a medical report.](https://github.com/raghiahaidari/RAG_LLM_FOR_MED.git)]()
 
 # About Me :
 
