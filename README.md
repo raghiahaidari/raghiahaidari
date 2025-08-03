@@ -5,7 +5,7 @@
 
 <div style = "height: 100%">
 <img width="35%" align="right" alt="Github" src="geek.gif" />
-I am a Data Engineer. My studies included a deep dive into various aspects of data and software engineering. I am constantly learning and applying new technologies and methodologies in the field. My skills include proficiency in programming languages like Python and Java. As well as SQL, cloud, big data technologies like Hadoop and Spark.
+I'm a Data Engineer with a background in data and software engineering. I'm always learning and exploring new tools and technologies. I'm comfortable working with Python, Java, and SQL, and I have experience with big data tools like Hadoop and Spark. I also have some knowledge of AI, especially large language models (LLMs).
 </div>
 
 <h3 align="left">Connect with me :</h3>
