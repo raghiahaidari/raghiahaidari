@@ -54,8 +54,3 @@ I'm a Data Engineer with a background in data and software engineering. I'm alwa
     <img src="https://cdn-icons-png.flaticon.com/512/4712/4712105.png" alt="ai" width="40" height="40"/>
   </a>
 </p>
-
-<h3 align="left">📊 GitHub Stats :</h3>
-  <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=raghiahaidari&show_icons=true" alt="Raghia HAIDARI's GitHub Stats" />
-  </p>
