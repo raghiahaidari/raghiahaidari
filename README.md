@@ -8,13 +8,6 @@
 I'm a Data Engineer with a background in data and software engineering. I'm always learning and exploring new tools and technologies. I'm comfortable working with Python, Java, and SQL, and I have experience with big data tools like Hadoop and Spark. I also have some knowledge of AI, especially large language models (LLMs).
 </div>
 
-<h3 align="left">Connect with me :</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/raghia-haidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghia-haidari" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/1088489395373478048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raghia-haidari" height="30" width="40" /></a>
-</p>
-
-
 <h3 align="left">Tech Stack :</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -54,3 +47,10 @@ I'm a Data Engineer with a background in data and software engineering. I'm alwa
     <img src="https://cdn-icons-png.flaticon.com/512/4712/4712105.png" alt="ai" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Connect with me :</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/raghia-haidari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raghia-haidari" height="30" width="40" /></a>
+  <a href="https://discordapp.com/users/1088489395373478048" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="raghia-haidari" height="30" width="40" /></a>
+</p>
+
