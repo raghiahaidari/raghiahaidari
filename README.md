@@ -28,17 +28,12 @@ I'm a Developer with a background in data and software engineering. I'm always l
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Hadoop_logo.svg" alt="hadoop" width="40" height="40"/>
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  </a>
-  <a href="https://flink.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://flink.apache.org/img/logo/png/100/flink_squirrel_100_color.png" alt="flink" width="40" height="40"/>
-  </a>
+  
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="fastapi" width="40" height="40"/>
   </a>
-  <a href="https://azure.microsoft.com/en-us/products/data-factory/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-1.svg" alt="azure" width="40" height="40"/>
+  <a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/>
   </a>
   <a href="https://en.wikipedia.org/wiki/Large_language_model" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/512/4712/4712107.png" alt="llms" width="40" height="40"/>
