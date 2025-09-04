@@ -5,7 +5,7 @@
 
 <div style = "height: 100%">
 <img width="35%" align="right" alt="Github" src="geek.gif" />
-I'm a Data Engineer with a background in data and software engineering. I'm always learning and exploring new tools and technologies. I'm comfortable working with Python, Java, and SQL, and I have experience with big data tools like Hadoop and Spark. I also have some knowledge of AI, especially large language models (LLMs).
+I'm a Developer with a background in data and software engineering. I'm always learning and exploring new tools and technologies. I'm comfortable working with Python, Java, and SQL, and I have experience with big data tools like Hadoop and Spark. I also have some knowledge of AI, especially large language models (LLMs).
 </div>
 
 <h3 align="left">Tech Stack :</h3>
